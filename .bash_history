@@ -1,344 +1,507 @@
+cd root
+cd */0x07-pointers_arrays_strings
 ls
+vi 4-strpbrk.c
+clear
+cd root
+cd */0x07-pointers_arrays_strings
+ls
+rm 101-crackme_password
+ls
+cat > 101-crackme_password
+betty 101-crackme_password
+git add .
+git commit -m 'Last task'
+git push
+clear
+betty 8-print_diagsums.c
+vi 8-print_diagsums.c
+mv 8-print_diagsums.c 8-print_diagsums1.c
+ls
+vi 8-print_diagsums.c
+clear
+betty 8-print_diagsums.c
+vi 8-print_diagsums.c
+betty 8-print_diagsums.c
+git add .
+git commit -m 'Second to last task'
+git push
+clear
+vi 8-print_diagsums.c
+rm 8-print_diagsums.c
+ls
+mv 8-print_diagsums1.c 8-print_diagsums.c
+ls
+git add .
+git commit -m 'Second to last task'
+git push
+clear
+vi 8-print_diagsums.c
+betty 8-print_diagsums.c
+cd root
+cd */alx-low_level_programming && mkdir 0x08-recursion && vi _putchar
+ls
+cd */alx-low_lel_programming && mkdir 0x08-recursion && vi _putchar
+cd alx-low_level_programming && mkdir 0x08-recursion && vi _putchar
+clear
+ls
+cd 0x08-recursion
+ls
+cd ..
+ls
+mv _putchar _putchar.c
+ls
+vi _putchar.c
+mv _putchar.c 0x08-recursion
+ls
+cd 0x08-recursion
+clear
+ls
+echoecho "Recursion Tasks" > README.md
+echo "Recursion Tasks" > README.md
+ls
+vi main.h
+betty main.h
+clear
+betty _putchar.c
+cleaar
+clear
+vi 0-puts_recursion.c
+cd root
+cd */0x08-recursion
+ls
+vi 0-puts_recursion.c
+clear
+git add .
+git commit -m 'Task 0'
+git push
+clear
+vi 0-puts_recursion.c
+git add .
+git commit -m 'Task 0'
+git push
+vi 0-puts_recursion.c
+clear
+1-print_rev_recursion.c
+vi 1-print_rev_recursion.c
+betty 1-print_rev_recursion.c
+git add .
+git commit -m 'TAsk 1'
+git push
+clear
+vi 2-strlen_recursion.c
+cat 2-strlen_recursion.c
+clear
+vi 2-strlen_recursion.c
+cat 2-strlen_recursion.c
+git add .
+git commit -m 'Task 2'
+git push
+clear
+vi 3-factorial.c
+betty  3-factorial.c
+git add .
+git commit -m 'Task 4 factorial'
+git push
+clear
+vi 4-pow_recursion.c
+betty 4-pow_recursion.c
+git add .
+git commit -m 'Task 5 - pow'
+git push
+clear
+vi 5-sqrt_recursion.c
+betty 5-sqrt_recursion.c
+git add .
+git commit -m 'Task 6'
+git push
+clear
+vi 6-is_prime_number.c
+betty 6-is_prime_number.c
+git add .
+git commit -m 'Task 7'
+git push
+clear
+vi 100-is_palindrome.c
+betty 100-is_palindrome.c
+git add .
+git commit -m 'Adv 1'
+git push
+cd root
+cd */0x08-recursion
+ls
+clear
+vi 101-wildcmp.c
+clear
+cd root
+cd */0x08-recursion
+vi 0-puts_recursion.c
+betty 0-puts_recursion.c
+git add .
+git commit -m 'Task 1'
+git push
+pwd
 cd root
 ls
-cd alx-system_engineering-devops
+cd alx-low_level_programming
 ls
-cd 0x02-shell_redirections
+mv README.md 0x09-static_libraries
+mv _putchar.c 0x09-static_libraries
+mv create_static_lib.sh 0x09-static_libraries
 ls
+cat 0x09-static_libraties
 clear
-echo "Script interpretation for the following instructed commands" > README.md
+cd 0x09-static_libraries
 ls
-cat README.md
-vi 0-hello_world
-chmod u+x 0-hello_world
+vi main.h
+ls
+betty main.h
 ls
 git status
+git add -A
+git commit -m 'Main'
+git push
 clear
-vi 1-confused_smiley
-cat 1-confused_smiley
-chmod u+x 1-confused_smiley
+git status
 ls
-vi 2-hellofile
-chmod u+x 2-hellofile 
-ld
-;s
+vi 0-isupper.c
+clear
+betty 0-isupper.c
+vi 0-memset.c
+betty 0-memset.c
+vi 0-memset.c
+betty 0-memset.c
+clear
+vi 0-strcat.c
+betty 0-strcat.c
+vi 1-isdigit.c
+betty 1-isdigit.c
+vi 1-memcpy.c
+betty 1-memcpy.c
+vi 1-strncat.c
+betty 1-strncat.c
+vi 100-atoi.c
+betty 100-atoi.c
+vi 2-strchr.c
+betty 2-strchr.c
+vi 2-strlen.c
+betty 2-strlen.c
+vi 3-islower.c
+betty 3-islower.c
+vi 3-puts.c
+betty 3-puts.c
+clear
+vi 3-strcmp.c
+betty 3-strcmp.c
+vi 4-isalpha.c
+betty 4-isalpha.c
+vi 4-strpbrk.c
+betty 4-strpbrk.c
+vi 5-strstr.c
+betty 5-strstr.c
+vi 6-abs.c
+betty 6-abs.c
+vi 9-strcpy.c
+betty 9-strcpy.c
+clear
+git status
+git add -A
+git status
+git commit -m 'Static libraries'
+git push
+clear
+cd ..
+mkdir 0x0A-argc_argv && cd 0x0A-argc_argv
+vi main.h
+betty main.h
+vi main.h
+betty main.h
+vi 0-whatsmyname.c
+betty 0-whatsmyname.c
+vi 1-args.c
+betty 1-args.c
+vi 100-change.c
+betty 100-change.c
+vi 2-args.c
+betty 2-args.c
+vi 3-mul.c
+betty 3-mul.c
+vi 4-add.c
+betty 4-add.c
 ls
+vi _putchar.c
+betty _putchar.c
+vi README.md
+clear
+git status
+git add -A
+git status
+git commit -m 'Argc and Argv'
+git push
+clear
 cd root
-cd alx-system_engineering-devops
+cd */0x09-static_libraries
 ls
-git status
-git add -A
-git commit -m "Redirection task zero to two"
+vi main.h
+vi libmy.a
+betty libmy.a
+ls
+ar -cvq libmy.a lib1.o lib2.o
+ar -t libmy.a
+clear
+gcc -o p p.c libmy.a
+cd root
+cd */0x09-static_libraries
+ls
+rm create_static_lib.sh libmy.a
+ls
+gcc -c *.c
+vi main.h
+vi 3-strcmp.c
+clear
+gcc -c *.c
+ls
+ar -rc libmy.a *.o
+ranlib libmy.a
+ar -t libmy.a
+vi .gitignore
+git add .
+git commit -m 'Wahala task'
 git push
+cleaar
+clear
 ls
+cd ..
+ls
+cp -r 0x06-pointers_arrays_strings/2-strncpy.c 0x09-static_libraries
+cd 0x09-static_libraries
+ls
+clear
+cp -r 2-strncpy.c 2-strncpy.o
+ar  -t libmy.a
+ls
+rm 2-strncpy.o
+clear
+ls
+cd ..
+cp -r 0x07-pointers_arrays_strings/3-strspn.c 0x09-static_libraries
+cd 0x09-static_libraries
+ls
+clear
+git status
+gcc -c *.c
+ar -rc libmy.a *.o
+ranlib libmy.a
+ar -t libmy.a
+clear
+git status
+git add .
+git commit -m 'Static libraries'
+git push
+clear
+vi create_static_lib.sh
+chmod +x create_static_lib.sh
+./create_static_lib.sh
+vi create_static_lib.sh
+chmod +x create_static_lib.sh
+./create_static_lib.sh
+vi create_static_lib.sh
+chmod +x create_static_lib.sh
+./create_static_lib.sh
+vi create_static_lib.sh
+chmod +x create_static_lib.sh
+./create_static_lib.sh
+clear
+git add .
+git commit -m 'Script for libraries'
+git push
+vi create_static_lib.sh
+clear
+chmod +x create_static_lib.sh
+./create_static_lib.sh
+git add .
+git commit -m 'Script for libraries'
+git push
+vi create_static_lib.sh
+chmod +x create_static_lib.sh
+./create_static_lib.sh
+git add .
+git commit -m 'Script for libraries'
+git push
+clear
 cd root
 ls
-cd alx-system_engineering-devops
-ls
-0x02-shell_redirections
-cd 0x02-shell_redirections
-ls
+cd alx-low_level_programming && mkdir 0x0B-malloc_free && cd 0x0B-malloc_free
+echo "Memory allocation" > README.md
+vi main.h
+betty main.h
+vi _putchar.c
+betty _putchar.c
+vi 0-create_array.c
+betty 0-create_array.c
+vi 1-strdup.c
+betty 1-strdup.c
+vi 100-argstostr.c
+betty 100-argstostr.c
+vi 101-strtow.c
+betty 101-strtow.c
+vi 2-str_concat.c
+betty  2-str_concat.c
+vi 3-alloc_grid.c
+betty 3-alloc_grid.c
+vi 4-free_grid.c
+betty 4-free_grid.c
 git status
 git add -A
-git commit -m "Task 1 and 3 of redirection"
-git push
-clear
-vi 3-twofiles
-ls
-echo '3-twofiles = Display the content of /etc/passwd and /etc/hosts' >> README.md
-chmod u+x 3-twofiles
-ls
-vi 4-lastlines
-cat /etc/passwd
-tail /etc/passwd
-clear
-echo '4-lastlines =Display the last 10 lines of /etc/passwd' >> README.md
-chmod u+x 4-lastlines
-ls
-cat README.md
-clear
-vi 5-firstlines
-echo '5-firstlines = Display the first 10 lines of /etc/passwd' >> README.md
-chmod u+x 5-firstlines
-ls
-cat README.md
-clear
-git add -A
-git commit -m 'Task 4 and 5 of redirection'
-git push
-clear
-vi 6-third_line
-echo '6-third_line = Write a script that displays the third line of the file iacta. The file iacta will be in the working directory and you're not allowed to use SED' >> README.md
-
-
-
-cat README.md
-echo '6-third_line = Write a script that displays the third line of the file iacta. The file iacta will be in the working directory and you're not allowed to use SED' >> README.md
-echo '6-third_line = Write a script that displays the third line of the file iacta. The file iacta will be in the working directory and you're not allowed to use SED' >> README.md
-cat README.md
-clear
-ls
-vi 7-file
-chmod u+x 7-file
-echo '7-file = Write a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.' >> README.md
-echo "7-file = Write a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line." >> README.md
-git add -
-git add -A
-git commit -m '
-Task 6 and 7 of redirection'
-git push
-vi 7-file
-chmod u+x 7-file
-git add -A
-git commit -m 'Task 7 corrected'
-git push
-clear
-vi 8-cwd_state
-chmod u+x 8-cwd_state
-ls
-echo '8-cwd_state
-
-
-
-echo '8-cwd_state = Write a script that writes into the file ls_cwd_content the result of the command ls -la. If the file ls_cwd_content already exists, it should be overwritten. If the file ls_cwd_content does not exist, create it' >> README.md
-chmod u+x 8-cwd_state
-ls
-git add -A
-git commit -m 'TAsk 8 of redirection'
-git push
-cd root/alx-system_engineering-devops/0x02-shell_redirections
-ls
 git status
-vi 12-newest_files
-chmod u+x 12-newest_files
-echo "12-newest_files = Create a script that displays the 10 newest files in the current directory. Requirements:
-
-One file per line
-Sorted from the newest to the oldest >> README.md
-
-echo "12-newest_files = Create a script that displays the 10 newest files in the current directory. Requirements are one file per line and sorted from the newest to the oldest >> README.md
-cat README.md
-echo "12-newest_files = Create a script that displays the 10 newest files in the current directory. Requirements are one file per line and sorted from the newest to the oldest" >> README.md
-clear
-cat README.md
-git add -A
-git status
-clear
-vi 13-unique
-chmod u+x 13-unique
-echo "13-unique = Create a script that takes a list of words as input and prints only words that appear exactly once; Input and output format: One line, one word. Words should be sorted" >> README.md
-git add -A
-git status
-clear
-vi 14-findthatword
-chmod u+x 14-findthatword
-echo "14-findthatword = Display lines containing the pattern “root” from the file /etc/passwd" >> README.md
-git add -A
-clear
-vi 15-countthatword
-chmod u+x 15-countthatword
-echo "15-countthatword = Display the number of lines that contain the pattern “bin” in the file /etc/passwd" >> README.md
-git add -A
-git status
-clear
-git status
-vi 16-whatsnext
-chmod u+x 16-whatsnext
-echo "16-whatsnext = Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd" >> README.md
-git add -
-git add -A
-ls
-cd root/alx-system_engineering-devops/0x02-shell_redirections
-ls
-git status
-clear
-vi 17-hidethisword
-chmod u+x 17-hidethisword
-echo "17-hidethisword = Display all the lines in the file /etc/passwd that do not contain the pattern “bin”." >>README.md
-git add -
-git add -A
-clear
-git status
-vi 18-letteronly
-chmod u+x 18-letteronly
-echo "18-letteronly= Display all lines of the file /etc/ssh/sshd_config starting with a letter." >> README.md
-git add -A
-git commit -m "Redirections task 11 to 18"
+git commit -m 'Memory allocation'
+push
 git push
 clear
-vi 17-hidethisword
-git add -A
-git commit -m "Task 17 corrected"
-git push
-clear
-vi 19-AZ
-chmod u+x 19-AZ
-echo "19-AZ = Replace all characters A and c from input to Z and e respectively." >> README.md
-git add -A
-vi 20-hiago
-chmod u+x 20-hiago
-echo "20-hiago = Create a script that removes all letters c and C from input." >> README.md
-git add -A
-vi 21-reverse
-chmod u+x 21-reverse
-echo "21-reverse = Write a script that reverse its input." >> README.md
-vi 22-users_and_homes
-cat 22-users_and_homes
-chmod u+x 22-users_and_homes
-echo "22-users_and_homes = Write a script that displays all users and their home directories, sorted by users." >> README.md
-git add -A
-git status
-git commit -m "Task 19 to 22 of redirections"
-git push
-clear
-vi 100-empty_casks
-echo "100-empty_casks = Write a command that finds all empty files and directories in the current directory and all sub-directories. Only the names of the files and directories should be displayed (not the entire path), hidden files should be listed one file name per line and you are not to use basename, grep,egrep,fgrep or rgrep." >> README.md
-vi 101-gifs
-echo "101-gifs = Write a script that lists all the files with a .gif extension in the current directory and all its sub-directories." >> README.md
-vi 102-acrostic
-echo "102-acrostic = An acrostic is a poem (or other form of writing) in which the first letter (or syllable, or word) of each line (or paragraph, or other recurring feature in the text) spells out a word, message or the alphabet. The word comes from the French acrostiche from post-classical Latin acrostichis). As a form of constrained writing, an acrostic can be used as a mnemonic device to aid memory retrieval. So, create a script that decodes acrostics that use the first letter of each line. The decoded message has to end with a new line and you are not allowed to use grep, egrep, fgrep or rgrep." >>  README.md
-vi 103-the_biggest_fan
-echo "103-the_biggest_fan = Write a script that parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests. Order by number of requests, most active host or IP at the top and you are not allowed to use grep, egrep, fgrep or rgrep." >> README.md
-chmod u+x 103-the_biggest_fan 102-acrostic 101-gifs 100-empty_casks
-ls
-git add -A
-git commit -m "Advance task of redirections"
-git push
-clear
-vi 103-the_biggest_fan
-la
-git add -A
-git commit -m "TAsk 24 corrected" 
-git push
-vi 103-the_biggest_fan
-git add -A
-git commit -m "TAsk 24 corrected" 
-git push
-clear
-cd root/alx-system_engineering-devops/0x03-shell_variables_expansions
-ls
-vi 103-water_and_stir
-cat 103-water_and_stir
-vi 103-water_and_stir
-clear
-git add -A
-git commit -m 'kdkd'
-git push
-vi 103-water_and_stir
-git add -A
-git commit -m 'Tired'
-git push
-clear
-vi 103-water_and_stir
-git add -A
-git commit -m 'ksd'
-git push
-clear
-cd root/alx-system_engineering-devops/0x03-shell_variables_expansions
-ls
-cd ~
-ld
-ls
-cd */0x03-shell_variables_expansions
-vi 103-water_and_stir
-git add -A
-git commit -m "jkdsj"
-git push
-clear
-vi 103-water_and_stir
-git add -A
-git commit -m "jkj"
-git push
-vi 103-water_and_stir
-git add -A
-git commit -m "kk"
-git push
-clear
-vi 103-water_and_stir
-git add -A
-git commit -m "kl"
-git push
-vi 103-water_and_stir
-git add -A
-git commit -m "ks"
-git push
-vi 103-water_and_stir
-clear
-git add -A
-git commit -m "other"
-git push
-vi 103-water_and_stir
-git add -A
-git commit -m "kjl"
-git push
-vi 103-water_and_stir
-clear
-git add -A
-git commit -m "kk"
-git push 
-vi 103-water_and_stir
-git add -A
-git commit -m "k:"
-git push
-clear
-vi 103-water_and_stir
-git add -A
-git commit -m "lh"
-git push
-git status
-cd */0x03-shell_variables_expansions
-ls
 cd root
-cd */0x03-shell_variables_expansions
-cd 
-`cd -
+cd */0x0c-more_malloc_free
+ls
+cd ..
+ls
+mv main.h 0x0c-more_malloc_free
+ls
+mv _putchar 0x0c-more_malloc_free
+mv _putchar.c 0x0c-more_malloc_free
+ls
+mv 0-malloc_checked.c 0x0c-more_malloc_free
+clear
+ls
+mv 100-realloc.c 0x0c-more_malloc_free
+mv 101-mul.c 0x0c-more_malloc_free
+mv 1-string_nconcat.c 0x0c-more_malloc_free
+ls
+cd 0x0c-more_malloc_free
+ls
+vi 101-mul.c
+betty 101-mul.c
+vi 2-calloc.c
+betty 2-calloc.c
+vi 3-array_range.c
+betty 3-array_range.c
+vi README.md
+clear
+git status
+git add -A
+git commit -m 'More malloc task'
+git push
+ls
+cd ..
+ls
+mv 0x0c-more_malloc_free 0x0C-more_malloc_free
+ls
+git add .
+git commit -m 'More malloc tasks'
+git push
+ls
+clear
 cd -
+cd ~
+ls
+cd 0x01_emacs
+ls
+cat cutting
+vi cutting
+cat cutting
+vi opening
+cat opening
+vi pasting
+cat pasting
+cat quitting
+cat saving
+cat searching
+cat undoing
+clear
+cd ..
+ls
+cd Betty
+ls
+cat README.md
+clear
+cd root && cd alx-low_level_programming && mkdir 0x0D-preprossor && cd 0x0D-preprossor && vi 0-object_like_macro.h
+clear
+echo 'Processor files' > README.md
+ld
+ls
+vi 1-pi.h
+vi 2-main.c
+vi 3-function_like_macro.h
+vi 4-sum.h
+git add -A
+git commit -m 'Processor files'
+git push
+ls
+cd ..
 ls
 clear
-cd ~
-pwd
-cd ..
-pwd
-cd */0x03-shell_variables_expansions
-cd root*/0x03-shell_variables_expansions
-cd /root*/0x03-shell_variables_expansions
+ls
+mv 0x0D-preprossor 0x0D-preprocessor
+ls
+g
+git add .
+git commit -m 'Proprocessor correction'
+git push
+cd root && cd alx-low_level_programming
+mkdir 0x0F-function_pointers
+cd 0x0F-function_pointers
+ls
+vi 0-print_name.c
 cd root
-cd */0x03-shell_variables_expansions
-clear
-vi 103-water_and_stir
+cd */0x0F-function_pointers
+ls
+vi 0-print_name.c
+betty 0-print_name.c
+vi 1-array_iterator.c
+betty 1-array_iterator.c
+vi 100-main_opcodes.c
+betty 100-main_opcodes.c
+vi 2-int_index.c
+betty 2-int_index.c
+vi 3-calc.h
+vi 3-get_op_func.c
+vi 3-main.c
+vi 3-op_functions.c
+vi _putchar.c
+vi function_pointers.h
+vi README.md
 git add -A
-git commit -m 'll'
+git commit -m 'Function pointers'
 git push
 clear
-cd ~
-pwd
-cd ..
-clear
-cd root
-ls
-git clone https://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github.com/Maxsola-ui/My-practise-repository.git
-git clone https://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@github.com/Maxsola-ui/My-practise-repository.git
-ls
-cd My-practise-repository
-ls
-clear
 cd ..
 ls
-cd */0x02-shell_redirections
+cd 0x0E-structures_typedef
 ls
-cat README.md
-clear
+vi README.md
 cd ..
-cd 0x00-shell_basics
-cat README.md
-ls
-cat > README.md
-cd root
-cd *0x00-shell_basics
-cd */0x00-shell_basics
-git status
-echo '101-clean_emacs = Create a script that deletes all files in the current working directory that end with the character ~.' >> README.md
-echo '102-tree = Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory and You are only allowed to use two spaces (and lines) in your script, not more.' >> README.md
+cd 0x0D-preprocessor
+vi README.md
+cd ..
 git add -A
-git commit -m 'Readme correction'
+git commit -m 'Readme.md updated'
+git push
+cd root
+cd alx-low_level_programming && mkdir 0x01-variadic_functions && cd 0x01-variadic_functions && vi README.md
+clear
+cd ..
+mv 0x01-variadic_functions 0x10-variadic_functions
+ls
+cd 0x10-variadic_functions
+ls
+clear
+vi variadic_functions.h
+vi 0-sum_them_all.c
+vi 1-print_numbers.c
+vi 2-print_strings.c
+vi 3-print_all.c
+vi README.md
+clear
+git status
+git all -A
+git add -A
+git commit -m 'Variadic functions task'
 git push

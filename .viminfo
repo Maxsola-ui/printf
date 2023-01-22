@@ -11,11 +11,23 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~MSle0~/bin
+~Msle0~/\<include\>
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1670536838,,"wq"
+|2,0,1674183373,,"wq"
+:q!
+|2,0,1672859582,,"q!"
+:set noeol
+|2,0,1672697401,,"set noeol"
+:set binary
+|2,0,1672697363,,"set binary"
+:wq!
+|2,0,1672173339,,"wq!"
+:q
+|2,0,1671030058,,"q"
+:wq:wq
+|2,0,1670964199,,"wq:wq"
 :WQ
 |2,0,1670365454,,"WQ"
 :qa
@@ -26,16 +38,14 @@
 |2,0,1670276004,,"q[uit]!"
 :help :quit
 |2,0,1670275968,,"help :quit"
-:q
-|2,0,1669924836,,"q"
 :.!i:q
 |2,0,1669924798,,".!i:q"
 :w
 |2,0,1669823046,,"w"
-:q!
-|2,0,1669166934,,"q!"
 
 # Search String History (newest to oldest):
+? \<include\>
+|2,1,1672694917,,"\\<include\\>"
 ?/bin/bash
 |2,1,1670534686,47,"bin/bash"
 
@@ -50,906 +60,1080 @@
 	www
 |3,0,18,0,1,0,1669166885,"www"
 ""-	CHAR	0
-	"
-|3,1,36,0,1,0,1668893532,"\""
+	h
+|3,1,36,0,1,0,1672970344,"h"
 
 # File marks:
-'0  1  0  ~/alx-low_level_programming/0x00-hello_world/4-puts
-|4,48,1,0,1670536838,"~/alx-low_level_programming/0x00-hello_world/4-puts"
-'1  8  1  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,49,8,1,1670536469,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
-'2  10  1  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,50,10,1,1670536409,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
-'3  12  0  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,51,12,0,1670536409,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
-'4  5  74  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,52,5,74,1670536243,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
-'5  5  74  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,53,5,74,1670536243,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
-'6  5  74  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,54,5,74,1670536243,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
-'7  5  74  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,55,5,74,1670536243,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
-'8  14  0  ~/alx-low_level_programming/0x00-hello_world/4-puts
-|4,56,14,0,1670536030,"~/alx-low_level_programming/0x00-hello_world/4-puts"
-'9  14  0  ~/alx-low_level_programming/0x00-hello_world/4-puts
-|4,57,14,0,1670536030,"~/alx-low_level_programming/0x00-hello_world/4-puts"
+'0  46  43  ~/alx-low_level_programming/0x10-variadic_functions/README.md
+|4,48,46,43,1674183373,"~/alx-low_level_programming/0x10-variadic_functions/README.md"
+'1  8  0  ~/alx-low_level_programming/0x10-variadic_functions/3-print_all.c
+|4,49,8,0,1674183089,"~/alx-low_level_programming/0x10-variadic_functions/3-print_all.c"
+'2  9  0  ~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c
+|4,50,9,0,1674182991,"~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c"
+'3  9  0  ~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c
+|4,51,9,0,1674182919,"~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c"
+'4  26  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
+|4,52,26,0,1674182858,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
+'5  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
+|4,53,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
+'6  1  17  ~/alx-low_level_programming/0x01-variadic_functions/README.md
+|4,54,1,17,1674182678,"~/alx-low_level_programming/0x01-variadic_functions/README.md"
+'7  13  93  ~/alx-low_level_programming/0x0D-preprocessor/README.md
+|4,55,13,93,1674090445,"~/alx-low_level_programming/0x0D-preprocessor/README.md"
+'8  31  34  ~/alx-low_level_programming/0x0E-structures_typedef/README.md
+|4,56,31,34,1674090130,"~/alx-low_level_programming/0x0E-structures_typedef/README.md"
+'9  96  192  ~/alx-low_level_programming/0x0F-function_pointers/README.md
+|4,57,96,192,1674089503,"~/alx-low_level_programming/0x0F-function_pointers/README.md"
 
 # Jumplist (newest first):
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/4-puts
-|4,39,1,0,1670536838,"~/alx-low_level_programming/0x00-hello_world/4-puts"
--'  8  1  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,39,8,1,1670536469,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
--'  8  1  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,39,8,1,1670536469,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
--'  10  1  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,39,10,1,1670536423,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
--'  10  1  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,39,10,1,1670536423,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
--'  12  0  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,39,12,0,1670536409,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
--'  12  0  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,39,12,0,1670536409,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
--'  5  74  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,39,5,74,1670536328,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
--'  5  74  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,39,5,74,1670536328,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
--'  5  74  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,39,5,74,1670536328,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
--'  5  74  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,39,5,74,1670536328,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
--'  5  74  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,39,5,74,1670536243,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
--'  5  74  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,39,5,74,1670536243,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,39,1,0,1670536127,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,39,1,0,1670536127,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,39,1,0,1670536127,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,39,1,0,1670536127,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,39,1,0,1670536127,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,39,1,0,1670536127,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
--'  14  0  ~/alx-low_level_programming/0x00-hello_world/4-puts
-|4,39,14,0,1670536030,"~/alx-low_level_programming/0x00-hello_world/4-puts"
--'  14  0  ~/alx-low_level_programming/0x00-hello_world/4-puts
-|4,39,14,0,1670536030,"~/alx-low_level_programming/0x00-hello_world/4-puts"
--'  14  0  ~/alx-low_level_programming/0x00-hello_world/4-puts
-|4,39,14,0,1670536030,"~/alx-low_level_programming/0x00-hello_world/4-puts"
--'  14  0  ~/alx-low_level_programming/0x00-hello_world/4-puts
-|4,39,14,0,1670536030,"~/alx-low_level_programming/0x00-hello_world/4-puts"
--'  14  0  ~/alx-low_level_programming/0x00-hello_world/4-puts
-|4,39,14,0,1670536030,"~/alx-low_level_programming/0x00-hello_world/4-puts"
--'  14  0  ~/alx-low_level_programming/0x00-hello_world/4-puts
-|4,39,14,0,1670536030,"~/alx-low_level_programming/0x00-hello_world/4-puts"
--'  14  0  ~/alx-low_level_programming/0x00-hello_world/4-puts
-|4,39,14,0,1670536030,"~/alx-low_level_programming/0x00-hello_world/4-puts"
--'  14  0  ~/alx-low_level_programming/0x00-hello_world/4-puts
-|4,39,14,0,1670536030,"~/alx-low_level_programming/0x00-hello_world/4-puts"
--'  14  0  ~/alx-low_level_programming/0x00-hello_world/4-puts
-|4,39,14,0,1670536030,"~/alx-low_level_programming/0x00-hello_world/4-puts"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/4-puts
-|4,39,1,0,1670535742,"~/alx-low_level_programming/0x00-hello_world/4-puts"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/4-puts
-|4,39,1,0,1670535742,"~/alx-low_level_programming/0x00-hello_world/4-puts"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/4-puts
-|4,39,1,0,1670535742,"~/alx-low_level_programming/0x00-hello_world/4-puts"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/4-puts
-|4,39,1,0,1670535742,"~/alx-low_level_programming/0x00-hello_world/4-puts"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/4-puts
-|4,39,1,0,1670535742,"~/alx-low_level_programming/0x00-hello_world/4-puts"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/4-puts
-|4,39,1,0,1670535742,"~/alx-low_level_programming/0x00-hello_world/4-puts"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/4-puts
-|4,39,1,0,1670535742,"~/alx-low_level_programming/0x00-hello_world/4-puts"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/4-puts
-|4,39,1,0,1670535742,"~/alx-low_level_programming/0x00-hello_world/4-puts"
--'  2  0  ~/alx-low_level_programming/0x00-hello_world/4-puts
-|4,39,2,0,1670535690,"~/alx-low_level_programming/0x00-hello_world/4-puts"
--'  2  0  ~/alx-low_level_programming/0x00-hello_world/4-puts
-|4,39,2,0,1670535690,"~/alx-low_level_programming/0x00-hello_world/4-puts"
--'  2  0  ~/alx-low_level_programming/0x00-hello_world/4-puts
-|4,39,2,0,1670535690,"~/alx-low_level_programming/0x00-hello_world/4-puts"
--'  2  0  ~/alx-low_level_programming/0x00-hello_world/4-puts
-|4,39,2,0,1670535690,"~/alx-low_level_programming/0x00-hello_world/4-puts"
--'  2  0  ~/alx-low_level_programming/0x00-hello_world/4-puts
-|4,39,2,0,1670535690,"~/alx-low_level_programming/0x00-hello_world/4-puts"
--'  2  0  ~/alx-low_level_programming/0x00-hello_world/4-puts
-|4,39,2,0,1670535690,"~/alx-low_level_programming/0x00-hello_world/4-puts"
--'  2  0  ~/alx-low_level_programming/0x00-hello_world/4-puts
-|4,39,2,0,1670535690,"~/alx-low_level_programming/0x00-hello_world/4-puts"
--'  2  0  ~/alx-low_level_programming/0x00-hello_world/4-puts
-|4,39,2,0,1670535690,"~/alx-low_level_programming/0x00-hello_world/4-puts"
--'  2  0  ~/alx-low_level_programming/0x00-hello_world/4-puts
-|4,39,2,0,1670535690,"~/alx-low_level_programming/0x00-hello_world/4-puts"
--'  2  0  ~/alx-low_level_programming/0x00-hello_world/4-puts
-|4,39,2,0,1670535690,"~/alx-low_level_programming/0x00-hello_world/4-puts"
--'  2  0  ~/alx-low_level_programming/0x00-hello_world/4-puts
-|4,39,2,0,1670535690,"~/alx-low_level_programming/0x00-hello_world/4-puts"
--'  2  0  ~/alx-low_level_programming/0x00-hello_world/4-puts
-|4,39,2,0,1670535690,"~/alx-low_level_programming/0x00-hello_world/4-puts"
--'  2  0  ~/alx-low_level_programming/0x00-hello_world/4-puts
-|4,39,2,0,1670535690,"~/alx-low_level_programming/0x00-hello_world/4-puts"
--'  2  0  ~/alx-low_level_programming/0x00-hello_world/4-puts
-|4,39,2,0,1670535690,"~/alx-low_level_programming/0x00-hello_world/4-puts"
--'  2  0  ~/alx-low_level_programming/0x00-hello_world/4-puts
-|4,39,2,0,1670535690,"~/alx-low_level_programming/0x00-hello_world/4-puts"
--'  2  0  ~/alx-low_level_programming/0x00-hello_world/4-puts
-|4,39,2,0,1670535690,"~/alx-low_level_programming/0x00-hello_world/4-puts"
--'  2  0  ~/alx-low_level_programming/0x00-hello_world/4-puts
-|4,39,2,0,1670535690,"~/alx-low_level_programming/0x00-hello_world/4-puts"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/4-puts
-|4,39,1,0,1670535631,"~/alx-low_level_programming/0x00-hello_world/4-puts"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/4-puts
-|4,39,1,0,1670535631,"~/alx-low_level_programming/0x00-hello_world/4-puts"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/4-puts
-|4,39,1,0,1670535631,"~/alx-low_level_programming/0x00-hello_world/4-puts"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/4-puts
-|4,39,1,0,1670535631,"~/alx-low_level_programming/0x00-hello_world/4-puts"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/4-puts
-|4,39,1,0,1670535631,"~/alx-low_level_programming/0x00-hello_world/4-puts"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/4-puts
-|4,39,1,0,1670535631,"~/alx-low_level_programming/0x00-hello_world/4-puts"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/4-puts
-|4,39,1,0,1670535631,"~/alx-low_level_programming/0x00-hello_world/4-puts"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/4-puts
-|4,39,1,0,1670535631,"~/alx-low_level_programming/0x00-hello_world/4-puts"
--'  13  2  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,39,13,2,1670535448,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
--'  12  14  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,39,12,14,1670535448,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
--'  16  2  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,39,16,2,1670535448,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
--'  15  2  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,39,15,2,1670535448,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
--'  15  2  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,39,15,2,1670535448,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
--'  15  2  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,39,15,2,1670535448,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
--'  15  2  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,39,15,2,1670535448,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
--'  15  2  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,39,15,2,1670535448,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
--'  13  2  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,39,13,2,1670535448,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
--'  12  14  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,39,12,14,1670535448,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
--'  16  2  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,39,16,2,1670535448,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
--'  15  2  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,39,15,2,1670535448,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
--'  15  2  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,39,15,2,1670535448,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
--'  15  2  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,39,15,2,1670535448,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
--'  15  2  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,39,15,2,1670535448,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
--'  15  2  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,39,15,2,1670535448,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,39,1,0,1670534938,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,39,1,0,1670534938,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,39,1,0,1670534938,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,39,1,0,1670534938,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,39,1,0,1670534938,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,39,1,0,1670534938,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,39,1,0,1670534938,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
--'  1  0  ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-|4,39,1,0,1670534938,"~/alx-low_level_programming/0x00-hello_world/4-puts.c"
--'  2  19  ~/alx-low_level_programming/0x00-hello_world/3-name
-|4,39,2,19,1670534795,"~/alx-low_level_programming/0x00-hello_world/3-name"
--'  2  19  ~/alx-low_level_programming/0x00-hello_world/3-name
-|4,39,2,19,1670534795,"~/alx-low_level_programming/0x00-hello_world/3-name"
--'  2  19  ~/alx-low_level_programming/0x00-hello_world/3-name
-|4,39,2,19,1670534795,"~/alx-low_level_programming/0x00-hello_world/3-name"
--'  2  19  ~/alx-low_level_programming/0x00-hello_world/3-name
-|4,39,2,19,1670534795,"~/alx-low_level_programming/0x00-hello_world/3-name"
--'  2  19  ~/alx-low_level_programming/0x00-hello_world/3-name
-|4,39,2,19,1670534795,"~/alx-low_level_programming/0x00-hello_world/3-name"
--'  2  19  ~/alx-low_level_programming/0x00-hello_world/3-name
-|4,39,2,19,1670534795,"~/alx-low_level_programming/0x00-hello_world/3-name"
--'  2  19  ~/alx-low_level_programming/0x00-hello_world/3-name
-|4,39,2,19,1670534795,"~/alx-low_level_programming/0x00-hello_world/3-name"
--'  2  19  ~/alx-low_level_programming/0x00-hello_world/3-name
-|4,39,2,19,1670534795,"~/alx-low_level_programming/0x00-hello_world/3-name"
--'  2  19  ~/alx-low_level_programming/0x00-hello_world/3-name
-|4,39,2,19,1670534795,"~/alx-low_level_programming/0x00-hello_world/3-name"
--'  2  19  ~/alx-low_level_programming/0x00-hello_world/3-name
-|4,39,2,19,1670534795,"~/alx-low_level_programming/0x00-hello_world/3-name"
--'  2  19  ~/alx-low_level_programming/0x00-hello_world/3-name
-|4,39,2,19,1670534795,"~/alx-low_level_programming/0x00-hello_world/3-name"
--'  2  19  ~/alx-low_level_programming/0x00-hello_world/3-name
-|4,39,2,19,1670534795,"~/alx-low_level_programming/0x00-hello_world/3-name"
--'  2  19  ~/alx-low_level_programming/0x00-hello_world/3-name
-|4,39,2,19,1670534795,"~/alx-low_level_programming/0x00-hello_world/3-name"
--'  2  19  ~/alx-low_level_programming/0x00-hello_world/3-name
-|4,39,2,19,1670534795,"~/alx-low_level_programming/0x00-hello_world/3-name"
--'  2  19  ~/alx-low_level_programming/0x00-hello_world/3-name
-|4,39,2,19,1670534795,"~/alx-low_level_programming/0x00-hello_world/3-name"
+-'  46  43  ~/alx-low_level_programming/0x10-variadic_functions/README.md
+|4,39,46,43,1674183373,"~/alx-low_level_programming/0x10-variadic_functions/README.md"
+-'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/README.md
+|4,39,1,0,1674183105,"~/alx-low_level_programming/0x10-variadic_functions/README.md"
+-'  8  0  ~/alx-low_level_programming/0x10-variadic_functions/3-print_all.c
+|4,39,8,0,1674183089,"~/alx-low_level_programming/0x10-variadic_functions/3-print_all.c"
+-'  8  0  ~/alx-low_level_programming/0x10-variadic_functions/3-print_all.c
+|4,39,8,0,1674183089,"~/alx-low_level_programming/0x10-variadic_functions/3-print_all.c"
+-'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/3-print_all.c
+|4,39,1,0,1674183071,"~/alx-low_level_programming/0x10-variadic_functions/3-print_all.c"
+-'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/3-print_all.c
+|4,39,1,0,1674183071,"~/alx-low_level_programming/0x10-variadic_functions/3-print_all.c"
+-'  9  0  ~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c
+|4,39,9,0,1674182991,"~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c"
+-'  9  0  ~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c
+|4,39,9,0,1674182991,"~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c"
+-'  9  0  ~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c
+|4,39,9,0,1674182991,"~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c"
+-'  9  0  ~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c
+|4,39,9,0,1674182991,"~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c"
+-'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c
+|4,39,1,0,1674182972,"~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c"
+-'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c
+|4,39,1,0,1674182972,"~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c"
+-'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c
+|4,39,1,0,1674182972,"~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c"
+-'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c
+|4,39,1,0,1674182972,"~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c"
+-'  9  0  ~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c
+|4,39,9,0,1674182919,"~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c"
+-'  9  0  ~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c
+|4,39,9,0,1674182919,"~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c"
+-'  9  0  ~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c
+|4,39,9,0,1674182919,"~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c"
+-'  9  0  ~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c
+|4,39,9,0,1674182919,"~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c"
+-'  9  0  ~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c
+|4,39,9,0,1674182919,"~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c"
+-'  9  0  ~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c
+|4,39,9,0,1674182919,"~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c"
+-'  9  0  ~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c
+|4,39,9,0,1674182919,"~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c"
+-'  9  0  ~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c
+|4,39,9,0,1674182919,"~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c"
+-'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c
+|4,39,1,0,1674182901,"~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c"
+-'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c
+|4,39,1,0,1674182901,"~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c"
+-'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c
+|4,39,1,0,1674182901,"~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c"
+-'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c
+|4,39,1,0,1674182901,"~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c"
+-'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c
+|4,39,1,0,1674182901,"~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c"
+-'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c
+|4,39,1,0,1674182901,"~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c"
+-'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c
+|4,39,1,0,1674182901,"~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c"
+-'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c
+|4,39,1,0,1674182901,"~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c"
+-'  26  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
+|4,39,26,0,1674182858,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
+-'  26  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
+|4,39,26,0,1674182858,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
+-'  26  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
+|4,39,26,0,1674182858,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
+-'  26  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
+|4,39,26,0,1674182858,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
+-'  26  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
+|4,39,26,0,1674182858,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
+-'  26  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
+|4,39,26,0,1674182858,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
+-'  26  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
+|4,39,26,0,1674182858,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
+-'  26  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
+|4,39,26,0,1674182858,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
+-'  26  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
+|4,39,26,0,1674182858,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
+-'  26  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
+|4,39,26,0,1674182858,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
+-'  26  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
+|4,39,26,0,1674182858,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
+-'  26  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
+|4,39,26,0,1674182858,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
+-'  26  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
+|4,39,26,0,1674182858,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
+-'  26  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
+|4,39,26,0,1674182858,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
+-'  26  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
+|4,39,26,0,1674182858,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
+-'  26  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
+|4,39,26,0,1674182858,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
+-'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
+|4,39,1,0,1674182844,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
+-'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
+|4,39,1,0,1674182844,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
+-'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
+|4,39,1,0,1674182844,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
+-'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
+|4,39,1,0,1674182844,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
+-'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
+|4,39,1,0,1674182844,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
+-'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
+|4,39,1,0,1674182844,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
+-'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
+|4,39,1,0,1674182844,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
+-'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
+|4,39,1,0,1674182844,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
+-'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
+|4,39,1,0,1674182844,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
+-'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
+|4,39,1,0,1674182844,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
+-'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
+|4,39,1,0,1674182844,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
+-'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
+|4,39,1,0,1674182844,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
+-'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
+|4,39,1,0,1674182844,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
+-'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
+|4,39,1,0,1674182844,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
+-'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
+|4,39,1,0,1674182844,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
+-'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
+|4,39,1,0,1674182844,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
+-'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
+|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
+-'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
+|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
+-'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
+|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
+-'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
+|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
+-'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
+|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
+-'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
+|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
+-'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
+|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
+-'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
+|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
+-'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
+|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
+-'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
+|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
+-'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
+|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
+-'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
+|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
+-'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
+|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
+-'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
+|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
+-'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
+|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
+-'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
+|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
+-'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
+|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
+-'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
+|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
+-'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
+|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
+-'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
+|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
+-'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
+|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
+-'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
+|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
+-'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
+|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
+-'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
+|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
+-'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
+|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
+-'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
+|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
+-'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
+|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
+-'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
+|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
+-'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
+|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
+-'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
+|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
+-'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
+|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
+-'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
+|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
+-'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
+|4,39,1,0,1674182795,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
+-'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
+|4,39,1,0,1674182795,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
+-'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
+|4,39,1,0,1674182795,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
+-'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
+|4,39,1,0,1674182795,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
+-'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
+|4,39,1,0,1674182795,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
+-'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
+|4,39,1,0,1674182795,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
 
 # History of marks within files (newest to oldest):
 
-> ~/alx-low_level_programming/0x00-hello_world/4-puts
-	*	1670536835	0
-	"	1	0
-	^	14	1
-	.	14	0
-	+	1	0
-	+	2	0
+> ~/alx-low_level_programming/0x10-variadic_functions/README.md
+	*	1674183370	0
+	"	46	43
+	^	46	44
+	.	46	43
+	+	16	44
+	+	12	0
+	+	27	43
+	+	22	0
+	+	46	43
+
+> ~/alx-low_level_programming/0x10-variadic_functions/3-print_all.c
+	*	1674183086	0
+	"	8	0
+	^	8	0
+	.	7	0
+	+	50	0
 	+	7	0
-	+	5	1
+
+> ~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c
+	*	1674182987	0
+	"	9	0
+	^	9	0
+	.	8	0
+	+	33	0
+	+	8	0
+
+> ~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c
+	*	1674182915	0
+	"	9	0
+	^	9	0
+	.	8	0
+	+	25	0
+	+	8	0
+
+> ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
+	*	1674182856	0
+	"	26	0
+	^	26	1
+	.	26	0
+	+	26	0
+
+> ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
+	*	1674182803	0
+	"	12	5
+	^	12	6
+	.	12	5
+	+	12	5
+
+> ~/alx-low_level_programming/0x01-variadic_functions/README.md
+	*	1674182667	0
+	"	1	17
+	^	1	18
+	.	1	17
+	+	1	17
+
+> ~/alx-low_level_programming/0x0D-preprocessor/README.md
+	*	1674090443	0
+	"	13	93
+	^	13	94
+	.	13	93
+	+	13	93
+
+> ~/alx-low_level_programming/0x0E-structures_typedef/README.md
+	*	1674090128	0
+	"	31	34
+	^	31	35
+	.	31	34
+	+	13	61
+	+	31	34
+
+> ~/alx-low_level_programming/0x0F-function_pointers/README.md
+	*	1674089500	0
+	"	96	192
+	^	96	193
+	.	96	192
+	+	13	54
+	+	5	57
+	+	7	12
+	+	8	0
+	+	96	192
+
+> ~/alx-low_level_programming/0x0F-function_pointers/function_pointers.h
+	*	1674088762	0
+	"	7	5
+	^	7	6
+	.	7	5
+	+	7	5
+
+> ~/alx-low_level_programming/0x0F-function_pointers/_putchar.c
+	*	1674088716	0
+	"	13	0
+	^	13	1
+	.	13	0
+	+	13	0
+
+> ~/alx-low_level_programming/0x0F-function_pointers/3-op_functions.c
+	*	1674088670	0
+	"	1	0
+	^	1	0
+	.	10	0
+	+	60	35
+	+	66	0
+	+	49	0
+	+	36	0
+	+	23	0
+	+	10	0
+
+> ~/alx-low_level_programming/0x0F-function_pointers/3-main.c
+	*	1674088411	0
+	"	12	0
+	^	12	0
+	.	11	0
+	+	48	0
+	+	11	0
+
+> ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
+	*	1674088364	0
+	"	4	0
+	^	4	0
+	.	3	0
+	+	35	0
+	+	12	0
+	+	3	0
+
+> ~/alx-low_level_programming/0x0F-function_pointers/3-calc.h
+	*	1674088313	0
+	"	15	0
+	^	15	0
+	.	14	0
+	+	28	5
 	+	14	0
 
-> ~/alx-low_level_programming/0x00-hello_world/4-puts.c
-	*	1670536467	0
-	"	8	1
-	^	8	2
-	.	9	0
-	+	10	1
-	+	8	3
-	+	13	0
-	+	5	74
+> ~/alx-low_level_programming/0x0F-function_pointers/2-int_index.c
+	*	1674088230	0
+	"	4	0
+	^	4	0
+	.	3	0
+	+	30	0
+	+	14	0
+	+	3	0
+
+> ~/alx-low_level_programming/0x0F-function_pointers/100-main_opcodes.c
+	*	1674088149	0
+	"	12	0
+	^	12	0
+	.	11	0
+	+	40	0
+	+	11	0
+
+> ~/alx-low_level_programming/0x0F-function_pointers/1-array_iterator.c
+	*	1674088017	0
+	"	4	0
+	^	4	0
+	.	3	0
+	+	20	0
+	+	3	0
+
+> ~/alx-low_level_programming/0x0F-function_pointers/0-print_name.c
+	*	1674087906	0
+	"	4	0
+	^	4	0
+	.	3	0
+	+	17	0
 	+	10	0
-	+	10	2
-	+	11	63
-	+	12	12
-	+	10	1
-	+	11	62
-	+	12	12
+	+	3	0
+
+> ~/alx-low_level_programming/0x0D-preprossor/4-sum.h
+	*	1673914950	0
+	"	5	5
+	^	5	6
+	.	5	5
+	+	5	5
+
+> ~/alx-low_level_programming/0x0D-preprossor/3-function_like_macro.h
+	*	1673914914	0
+	"	5	5
+	^	5	6
+	.	5	5
+	+	5	5
+
+> ~/alx-low_level_programming/0x0D-preprossor/2-main.c
+	*	1673914864	0
+	"	11	0
+	^	11	1
+	.	11	0
+	+	11	0
+
+> ~/alx-low_level_programming/0x0D-preprossor/1-pi.h
+	*	1673914816	0
+	"	3	5
+	^	3	6
+	.	3	5
+	+	3	5
+
+> ~/alx-low_level_programming/0x0D-preprossor/0-object_like_macro.h
+	*	1673914735	0
+	"	3	5
+	^	3	6
+	.	3	5
+	+	3	5
+
+> ~/alx-low_level_programming/0x0E-structures_typedef/5-free_dog.c
+	*	1673913344	0
+	"	19	0
+	^	19	1
+	.	19	0
+	+	19	0
+
+> ~/alx-low_level_programming/0x0E-structures_typedef/4-new_dog.c
+	*	1673913257	0
+	"	5	0
+	^	5	0
+	.	4	0
+	+	50	0
+	+	12	0
+	+	4	0
+
+> ~/alx-low_level_programming/0x0E-structures_typedef/2-print_dog.c
+	*	1673913184	0
+	"	4	0
+	^	4	0
+	.	3	0
+	+	27	0
+	+	3	0
+
+> ~/alx-low_level_programming/0x0E-structures_typedef/1-init_dog.c
+	*	1673913078	0
+	"	3	0
+	^	3	0
+	.	2	0
+	+	20	0
+	+	2	0
+
+> ~/alx-low_level_programming/dog.h
+	*	1673912923	0
+	"	4	0
+	^	4	0
+	.	3	0
+	+	22	0
+	+	10	0
+	+	3	0
+
+> ~/0x01_emacs/pasting
+	*	1673558296	0
+	"	1	0
+
+> ~/0x01_emacs/opening
+	*	1673558240	0
+	"	1	0
+
+> ~/0x01_emacs/cutting
+	*	1673558206	0
+	"	2	0
+	^	2	0
+	.	1	7
+	+	1	7
+
+> ~/alx-low_level_programming/0x0c-more_malloc_free/README.md
+	*	1673557864	0
+	"	1	16
+	^	1	17
+	.	1	16
+	+	1	16
+
+> ~/alx-low_level_programming/0x0c-more_malloc_free/3-array_range.c
+	*	1673557816	0
+	"	5	0
+	^	5	0
+	.	4	0
+	+	25	0
+	+	11	0
+	+	4	0
+
+> ~/alx-low_level_programming/0x0c-more_malloc_free/2-calloc.c
+	*	1673557751	0
+	"	32	0
+	^	32	0
+	.	31	0
+	+	49	0
+	+	4	0
+	+	12	0
+	+	24	0
+	+	31	0
+
+> ~/alx-low_level_programming/0x0c-more_malloc_free/101-mul.c
+	*	1673557677	0
+	"	1	0
+
+> ~/alx-low_level_programming/101-mul.c
+	*	1673555315	0
+	"	118	30
+	^	118	31
+	.	118	30
+	+	152	0
+	+	118	30
+
+> ~/alx-low_level_programming/100-realloc.c
+	*	1673555157	0
+	"	5	0
+	^	5	0
+	.	4	0
+	+	49	0
+	+	12	0
+	+	4	0
+
+> ~/alx-low_level_programming/1-string_nconcat.c
+	*	1673554683	0
+	"	5	0
+	^	5	0
+	.	4	0
+	+	53	0
+	+	4	0
+
+> ~/alx-low_level_programming/_putchar.c
+	*	1673554618	0
+	"	13	0
+	^	13	1
+	.	13	0
+	+	13	0
+	+	1	19
+	+	13	0
+
+> ~/alx-low_level_programming/0-malloc_checked.c
+	*	1673554531	0
+	"	11	0
+	^	11	0
+	.	10	0
+	+	20	0
+	+	4	0
+	+	10	0
+
+> ~/alx-low_level_programming/main.h
+	*	1673554399	0
+	"	12	5
+	^	12	6
+	.	12	5
+	+	25	5
+	+	12	5
+
+> ~/alx-low_level_programming/0x0B-malloc_free/4-free_grid.c
+	*	1673385888	0
+	"	3	0
+	^	3	0
+	.	2	0
+	+	20	0
+	+	2	0
+
+> ~/alx-low_level_programming/0x0B-malloc_free/3-alloc_grid.c
+	*	1673385824	0
+	"	3	0
+	^	3	0
+	.	2	0
+	+	44	0
+	+	2	0
+
+> ~/alx-low_level_programming/0x0B-malloc_free/2-str_concat.c
+	*	1673385686	0
+	"	3	0
+	^	3	0
+	.	2	0
+	+	63	0
+	+	2	0
+
+> ~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c
+	*	1673385623	0
+	"	1	0
+	^	1	0
+	.	30	0
+	+	79	0
+	+	38	0
+	+	30	0
+
+> ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
+	*	1673385552	0
+	"	3	0
+	^	3	0
+	.	2	0
+	+	44	0
+	+	2	0
+
+> ~/alx-low_level_programming/0x0B-malloc_free/1-strdup.c
+	*	1673385478	0
+	"	3	0
+	^	3	0
+	.	2	0
+	+	70	0
+	+	2	0
+
+> ~/alx-low_level_programming/0x0B-malloc_free/0-create_array.c
+	*	1673385415	0
+	"	11	0
+	^	11	0
+	.	10	0
+	+	39	0
+	+	3	0
+	+	10	0
+
+> ~/alx-low_level_programming/0x0B-malloc_free/_putchar.c
+	*	1673385349	0
+	"	13	0
+	^	13	1
+	.	13	0
+	+	13	0
+
+> ~/alx-low_level_programming/0x0B-malloc_free/main.h
+	*	1673385291	0
+	"	14	0
+	^	14	0
+	.	13	0
+	+	13	5
+	+	5	0
+	+	13	0
+
+> ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
+	*	1673022866	0
+	"	2	0
+	^	2	0
+	.	3	0
+	+	3	73
+	+	2	65
+	+	2	194
+	+	2	248
+	+	3	45
+	+	4	0
+	+	3	0
+
+> ~/alx-low_level_programming/0x09-static_libraries/.gitignore
+	*	1673020890	0
+	"	2	2
+	^	2	3
+	.	2	2
+	+	2	2
+
+> ~/alx-low_level_programming/0x09-static_libraries/3-strcmp.c
+	*	1673020662	0
+	"	17	5
+	^	17	6
+	.	17	6
+	+	25	0
+	+	23	30
+	+	20	7
+	+	18	42
+	+	15	10
+	+	2	0
+	+	12	0
+	+	15	10
+	+	17	6
+
+> ~/alx-low_level_programming/0x09-static_libraries/main.h
+	*	1673020572	0
+	"	16	28
+	^	16	29
+	.	16	28
+	+	1	0
+	+	26	0
+	+	16	28
+
+> ~/alx-low_level_programming/0x09-static_libraries/libmy.a
+	*	1672995615	0
+	"	1	0
+	^	1	0
+	.	2	0
+	+	21	0
+	+	2	0
+
+> ~/alx-low_level_programming/0x0A-argc_argv/README.md
+	*	1672970866	0
+	"	1	12
+	^	1	13
+	.	1	12
+	+	1	12
+
+> ~/alx-low_level_programming/0x0A-argc_argv/_putchar.c
+	*	1672970816	0
+	"	3	0
+	^	3	0
+	.	2	0
 	+	13	0
 	+	9	0
-
-> ~/alx-low_level_programming/0x00-hello_world/3-name
-	*	1670534790	0
-	"	2	19
-	^	2	20
-	.	2	19
-	+	2	19
-
-> ~/alx-low_level_programming/0x00-hello_world/2-assembler
-	*	1670531073	0
-	"	2	27
-	^	2	28
-	.	2	27
-	+	2	27
-
-> ~/alx-low_level_programming/0x00-hello_world/1-compiler
-	*	1670531013	0
-	"	2	28
-	^	2	29
-	.	2	28
-	+	2	28
-
-> ~/alx-low_level_programming/0x00-hello_world/0-preprocessor
-	*	1670530949	0
-	"	2	18
-	^	2	19
-	.	2	18
-	+	2	18
-
-> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir
-	*	1670443343	0
-	"	2	63
-	^	2	64
-	.	2	64
-	+	1	112
-	+	1	134
-	+	1	147
-	+	1	11
-	+	2	64
-
-> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/12-combinations
-	*	1670367554	0
-	"	2	22
-	^	2	23
-	.	2	22
-	+	2	22
-
-> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13
-	*	1670366266	0
-	"	2	18
-	^	2	19
-	.	2	16
-	+	2	16
-
-> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal
-	*	1670366185	0
-	"	2	21
-	^	2	22
-	.	2	21
-	+	1	11
-	+	2	21
-
-> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/13-print_float
-	*	1670366093	0
-	"	2	6
-	^	2	7
-	.	2	6
-	+	2	6
-
-> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths
-	*	1670365701	0
-	"	2	31
-	^	2	32
-	.	2	31
-	+	2	31
-
-> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/1-hello_you
-	*	1670365642	0
-	"	2	17
-	^	2	18
-	.	2	17
-	+	2	17
-
-> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/11-binary_to_decimal
-	*	1670365454	0
-	"	2	18
-	^	2	19
-	.	2	18
-	+	2	18
-
-> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/8-true_knowledge
-	*	1670365252	0
-	"	2	27
-	^	2	28
-	.	2	27
-	+	1	11
-	+	2	27
-
-> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd
-	*	1670363276	0
-	"	2	32
-	^	2	33
-	.	2	32
-	+	2	32
-
-> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/10-love_exponent_breath
-	*	1670361624	0
-	"	2	23
-	^	2	24
-	.	2	23
-	+	2	23
-
-> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-	*	1670361463	0
-	"	2	23
-	^	2	24
-	.	2	23
-	+	2	23
-
-> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/7-create_global_variable
-	*	1670361194	0
-	"	2	17
-	^	2	18
-	.	2	17
-	+	2	17
-
-> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/6-create_local_variable
-	*	1670361082	0
-	"	2	10
-	^	2	11
-	.	2	10
-	+	2	10
-
-> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/5-local_variables
-	*	1670360973	0
-	"	2	9
-	^	2	10
-	.	2	9
-	+	2	9
-
-> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/4-global_variables
-	*	1670360844	0
-	"	2	7
-	^	2	8
-	.	2	7
-	+	2	7
-
-> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/2-path
-	*	1670359305	0
-	"	2	24
-	^	2	25
-	.	2	24
-	+	2	24
-
-> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/0-alias
-	*	1670358770	0
-	"	2	14
-	^	2	15
-	.	2	14
-	+	2	14
-
-> ~/alx-system_engineering-devops/0x02-shell_redirections/103-the_biggest_fan
-	*	1670277854	0
-	"	2	101
-	^	2	102
-	.	2	101
-	+	1	11
-	+	2	101
-
-> ~/alx-system_engineering-devops/0x02-shell_redirections/102-acrostic
-	*	1670276928	0
-	"	2	28
-	^	2	29
-	.	2	28
-	+	2	28
-
-> ~/alx-system_engineering-devops/0x02-shell_redirections/101-gifs
-	*	1670276795	0
-	"	2	90
-	^	2	91
-	.	2	90
-	+	2	90
-
-> ~/alx-system_engineering-devops/0x02-shell_redirections/100-empty_casks
-	*	1670276508	0
-	"	2	42
-	^	2	43
-	.	2	42
-	+	2	42
-
-> ~/alx-system_engineering-devops/0x02-shell_redirections/22-users_and_homes
-	*	1670276134	0
-	"	2	6
-	^	2	7
-	.	2	6
-	+	2	6
-
-> /usr/share/vim/vim81/doc/editing.txt
-	*	1670276031	0
-	"	1078	3
-
-> /usr/share/vim/vim81/doc/help.txt
-	*	1670275950	0
-	"	3	5
-
-> ~/alx-system_engineering-devops/0x02-shell_redirections/21-reverse
-	*	1670275736	0
-	"	2	2
-	^	2	3
-	.	2	2
-	+	2	2
-
-> ~/alx-system_engineering-devops/0x02-shell_redirections/20-hiago
-	*	1670275631	0
-	"	2	7
-	^	2	8
-	.	2	7
-	+	2	7
-
-> ~/alx-system_engineering-devops/0x02-shell_redirections/19-AZ
-	*	1670275516	0
-	"	2	7
-	^	2	8
-	.	2	7
-	+	2	7
-
-> ~/alx-system_engineering-devops/0x02-shell_redirections/17-hidethisword
-	*	1670275393	0
-	"	2	7
-	^	2	8
-	.	2	7
-	+	2	7
-
-> ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-	*	1670275045	0
-	"	2	38
-	^	2	39
-	.	2	38
-	+	2	38
-
-> ~/alx-system_engineering-devops/0x02-shell_redirections/16-whatsnext
-	*	1670273536	0
-	"	2	28
-	^	2	29
-	.	2	29
-	+	2	29
-
-> ~/alx-system_engineering-devops/0x02-shell_redirections/15-countthatword
-	*	1670273054	0
-	"	2	24
-	^	2	25
-	.	2	24
-	+	2	24
-
-> ~/alx-system_engineering-devops/0x02-shell_redirections/14-findthatword
-	*	1670272901	0
-	"	2	25
-	^	2	26
-	.	2	25
-	+	2	25
-
-> ~/alx-system_engineering-devops/0x02-shell_redirections/13-unique
-	*	1670272686	0
-	"	2	13
-	^	2	14
-	.	2	13
-	+	2	13
-
-> ~/alx-system_engineering-devops/0x02-shell_redirections/12-newest_files
-	*	1670272299	0
-	"	2	11
-	^	2	12
-	.	2	11
-	+	2	11
-
-> ~/alx-system_engineering-devops/0x02-shell_redirections/11-directories
-	*	1670271399	0
-	"	2	31
-	^	2	32
-	.	2	32
-	+	2	32
-
-> ~/alx-system_engineering-devops/0x02-shell_redirections/9-duplicate_last_line
-	*	1670271273	0
-	"	2	6
-	^	2	7
-	.	2	6
-	+	2	6
-
-> ~/alx-system_engineering-devops/0x02-shell_redirections/8-cwd_state
-	*	1670269457	0
-	"	2	22
-	^	2	23
-	.	2	22
-	+	2	22
-
-> ~/alx-system_engineering-devops/0x02-shell_redirections/7-file
-	*	1670268839	0
-	"	2	84
-	^	2	85
-	.	2	85
-	+	2	85
-
-> ~/alx-system_engineering-devops/0x02-shell_redirections/6-third_line
-	*	1670268068	0
-	"	2	22
-	^	2	23
-	.	2	22
-	+	1	11
-	+	2	22
-
-> ~/alx-system_engineering-devops/0x02-shell_redirections/5-firstlines
-	*	1670267729	0
-	"	2	3
-	^	2	4
-	.	2	4
-	+	2	4
-
-> ~/alx-system_engineering-devops/0x02-shell_redirections/4-lastlines
-	*	1670267551	0
-	"	2	3
-	^	2	4
-	.	2	4
-	+	2	4
-
-> ~/alx-system_engineering-devops/0x02-shell_redirections/3-twofiles
-	*	1670267284	0
-	"	2	25
-	^	2	26
-	.	2	25
-	+	1	11
 	+	2	0
-	+	2	25
 
-> ~/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley
-	*	1670260729	0
-	"	2	7
-	^	2	8
-	.	2	8
-	+	2	8
+> ~/alx-low_level_programming/0x0A-argc_argv/4-add.c
+	*	1672970735	0
+	"	5	0
+	^	5	0
+	.	4	0
+	+	32	0
+	+	11	0
+	+	4	0
 
-> ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-	*	1670235644	0
-	"	2	18
-	^	2	19
-	.	2	18
-	+	2	18
+> ~/alx-low_level_programming/0x0A-argc_argv/3-mul.c
+	*	1672970682	0
+	"	5	0
+	^	5	0
+	.	4	0
+	+	30	0
+	+	11	0
+	+	4	0
 
-> ~/alx-system_engineering-devops/0x02-shell_redirections/2-hellofile
-	*	1670225481	0
-	"	2	3
-	^	2	4
-	.	2	4
-	+	2	4
+> ~/alx-low_level_programming/0x0A-argc_argv/2-args.c
+	*	1672970620	0
+	"	4	0
+	^	4	0
+	.	3	0
+	+	26	0
+	+	10	0
+	+	3	0
 
-> ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
-	*	1669931614	0
-	"	2	22
-	^	2	23
-	.	2	22
-	+	2	22
+> ~/alx-low_level_programming/0x0A-argc_argv/100-change.c
+	*	1672970559	0
+	"	4	0
+	^	4	0
+	.	3	0
+	+	48	0
+	+	10	0
+	+	3	0
 
-> ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
-	*	1669930664	0
-	"	2	28
-	^	2	29
-	.	2	28
-	+	2	28
+> ~/alx-low_level_programming/0x0A-argc_argv/1-args.c
+	*	1672970485	0
+	"	4	0
+	^	4	0
+	.	3	0
+	+	17	0
+	+	10	0
+	+	3	0
 
-> ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-	*	1669930577	0
-	"	2	33
-	^	2	34
-	.	2	33
-	+	2	33
+> ~/alx-low_level_programming/0x0A-argc_argv/0-whatsmyname.c
+	*	1672970427	0
+	"	11	0
+	^	11	0
+	.	10	0
+	+	17	0
+	+	3	0
+	+	10	0
 
-> ~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group
-	*	1669930031	0
-	"	2	20
-	^	2	21
-	.	2	20
-	+	2	20
-
-> ~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group
-	*	1669927558	0
-	"	2	17
-	^	2	18
-	.	2	17
-	+	2	17
-
-> ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
-	*	1669927493	0
-	"	2	18
-	^	2	19
-	.	2	18
-	+	2	18
-
-> ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
-	*	1669927356	0
+> ~/alx-low_level_programming/0x0A-argc_argv/main.h
+	*	1672970366	0
 	"	2	13
 	^	2	14
 	.	2	13
+	+	7	5
+	+	2	7
+	+	4	21
 	+	2	13
 
-> ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
-	*	1669927270	0
-	"	2	28
-	^	2	29
-	.	2	28
-	+	2	28
+> ~/alx-low_level_programming/0x09-static_libraries/9-strcpy.c
+	*	1672970037	0
+	"	22	0
+	^	22	1
+	.	22	0
+	+	22	0
 
-> ~/alx-system_engineering-devops/0x01-shell_permissions/9-John_Doe
-	*	1669927145	0
-	"	2	14
-	^	2	15
-	.	2	14
-	+	2	14
+> ~/alx-low_level_programming/0x09-static_libraries/6-abs.c
+	*	1672969979	0
+	"	10	0
+	^	10	0
+	.	9	0
+	+	21	0
+	+	3	0
+	+	9	0
 
-> ~/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-	*	1669926909	0
-	"	2	10
-	^	2	11
-	.	2	10
-	+	2	10
+> ~/alx-low_level_programming/0x09-static_libraries/5-strstr.c
+	*	1672969924	0
+	"	11	0
+	^	11	0
+	.	10	0
+	+	46	0
+	+	10	0
 
-> ~/alx-system_engineering-devops/0x01-shell_permissions/7-everybody
-	*	1669926630	0
-	"	2	16
-	^	2	17
-	.	2	16
-	+	2	16
+> ~/alx-low_level_programming/0x09-static_libraries/4-strpbrk.c
+	*	1672969848	0
+	"	32	0
+	^	32	1
+	.	32	0
+	+	32	0
 
-> ~/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
-	*	1669926461	0
-	"	2	19
-	^	2	20
-	.	2	19
-	+	2	19
-
-> ~/alx-system_engineering-devops/0x01-shell_permissions/5-execute
-	*	1669926315	0
-	"	2	14
-	^	2	15
-	.	2	14
-	+	2	14
-
-> ~/alx-system_engineering-devops/0x01-shell_permissions/4-empty
-	*	1669926225	0
-	"	2	10
-	^	2	11
-	.	2	10
-	+	2	10
-
-> ~/alx-system_engineering-devops/0x01-shell_permissions/0-iam_betty
-	*	1669926052	0
-	"	1	1
-	^	1	2
-	.	1	1
-	+	1	11
-	+	2	7
-	+	1	1
-
-> ~/alx-system_engineering-devops/0x01-shell_permissions/3-new_owner
-	*	1669925656	0
-	"	2	16
-	^	2	17
-	.	2	17
-	+	2	17
-
-> ~/alx-system_engineering-devops/0x01-shell_permissions/2-groups
-	*	1669925319	0
-	"	2	5
-	^	2	6
-	.	2	5
-	+	2	5
-
-> ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-	*	1669925202	0
-	"	2	5
-	^	2	6
-	.	2	5
-	+	2	5
-
-> ~/alx-system_engineering-devops/0x01-shell_permissions/0x01-shell_permissions
-	*	1669924638	0
-	"	2	7
-	^	2	8
-	.	2	7
-	+	2	7
-
-> ~/alx-system_engineering-devops/0x00-shell_basics/school.mgc
-	*	1669853584	0
+> ~/alx-low_level_programming/0x09-static_libraries/4-isalpha.c
+	*	1672969777	0
 	"	3	0
-	^	3	1
-	.	3	0
-	+	2	40
-	+	3	0
+	^	3	0
+	.	2	0
+	+	15	0
+	+	8	0
+	+	2	0
 
-> ~/alx-system_engineering-devops/0x00-shell_basics/103-commas
-	*	1669853034	0
-	"	2	14
-	^	2	15
-	.	2	14
-	+	2	14
+> ~/alx-low_level_programming/0x09-static_libraries/3-puts.c
+	*	1672969546	0
+	"	3	0
+	^	3	0
+	.	2	0
+	+	19	0
+	+	2	0
 
-> ~/alx-system_engineering-devops/0x00-shell_basics/102-tree
-	*	1669852935	0
-	"	2	25
-	^	2	26
-	.	2	25
-	+	2	25
+> ~/alx-low_level_programming/0x09-static_libraries/3-islower.c
+	*	1672969488	0
+	"	10	0
+	^	10	0
+	.	9	0
+	+	16	0
+	+	1	17
+	+	9	0
 
-> ~/alx-system_engineering-devops/0x00-shell_basics/100-lets_move
-	*	1669852773	0
-	"	2	21
-	^	2	22
-	.	2	21
-	+	2	21
+> ~/alx-low_level_programming/0x09-static_libraries/2-strlen.c
+	*	1672969415	0
+	"	20	0
+	^	20	1
+	.	20	0
+	+	20	0
 
-> ~/alx-system_engineering-devops/0x00-shell_basics/13-symbolic_link
-	*	1669852525	0
-	"	2	12
-	^	2	13
-	.	2	13
-	+	30	4
-	+	2	18
-	+	2	13
+> ~/alx-low_level_programming/0x09-static_libraries/2-strchr.c
+	*	1672969355	0
+	"	23	0
+	^	23	1
+	.	23	0
+	+	23	0
 
-> ~/alx-system_engineering-devops/0x00-shell_basics/101-clean_emacs
-	*	1669844863	0
-	"	2	5
-	^	2	6
-	.	2	5
-	+	1	11
-	+	2	5
+> ~/alx-low_level_programming/0x09-static_libraries/100-atoi.c
+	*	1672969307	0
+	"	15	0
+	^	15	1
+	.	8	3
+	+	37	0
+	+	8	3
 
-> ~/alx-system_engineering-devops/0x00-shell_basics/14-copy_html
-	*	1669842377	0
-	"	2	14
-	^	2	15
-	.	2	14
-	+	2	14
+> ~/alx-low_level_programming/0x09-static_libraries/1-strncat.c
+	*	1672969205	0
+	"	14	0
+	^	14	0
+	.	9	0
+	+	26	0
+	+	1	17
+	+	9	0
 
-> ~/alx-system_engineering-devops/0x00-shell_basics/12-file_type
-	*	1669841965	0
-	"	2	17
-	^	2	18
-	.	2	17
-	+	2	17
+> ~/alx-low_level_programming/0x09-static_libraries/1-memcpy.c
+	*	1672969103	0
+	"	2	0
+	^	2	0
+	.	1	17
+	+	25	0
+	+	1	17
 
-> ~/alx-system_engineering-devops/0x00-shell_basics/11-lists
-	*	1669841850	0
-	"	2	13
-	^	2	14
-	.	2	16
-	+	2	16
+> ~/alx-low_level_programming/0x09-static_libraries/1-isdigit.c
+	*	1672969022	0
+	"	19	0
+	^	19	1
+	.	19	0
+	+	19	0
 
-> ~/alx-system_engineering-devops/0x00-shell_basics/10-back
-	*	1669841481	0
-	"	2	3
-	^	2	4
-	.	2	3
-	+	2	3
+> ~/alx-low_level_programming/0x09-static_libraries/0-strcat.c
+	*	1672968948	0
+	"	15	3
+	^	15	4
+	.	10	0
+	+	26	0
+	+	1	17
+	+	10	0
 
-> ~/alx-system_engineering-devops/0x00-shell_basics/9-firstdirdeletion
-	*	1669841339	0
-	"	2	28
-	^	2	29
-	.	2	28
-	+	2	28
+> ~/alx-low_level_programming/0x09-static_libraries/0-memset.c
+	*	1672968817	0
+	"	5	23
+	^	5	24
+	.	5	24
+	+	21	0
+	+	16	4
+	+	5	24
 
-> ~/alx-system_engineering-devops/0x00-shell_basics/8-firstdelete
-	*	1669841198	0
-	"	2	28
-	^	2	29
-	.	2	28
-	+	2	28
+> ~/alx-low_level_programming/0x09-static_libraries/0-isupper.c
+	*	1672968466	0
+	"	19	0
+	^	19	1
+	.	19	0
+	+	19	0
 
-> ~/alx-system_engineering-devops/0x00-shell_basics/7-movethatfile
-	*	1669840868	0
-	"	2	36
-	^	2	37
-	.	2	36
-	+	2	36
+> ~/alx-low_level_programming/create_static_lib.sh
+	*	1672966924	0
+	"	3	17
+	^	3	18
+	.	3	17
+	+	3	17
 
-> ~/alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
-	*	1669826713	0
-	"	2	31
-	^	2	32
-	.	2	31
-	+	2	31
+> ~/alx-low_level_programming/0x08-recursion/0-puts_recursion.c
+	*	1672870801	0
+	"	17	16
+	^	17	17
+	.	17	16
+	+	12	39
+	+	12	12
+	+	18	0
+	+	14	21
+	+	13	0
+	+	14	1
+	+	11	8
+	+	17	16
 
-> ~/alx-system_engineering-devops/0x00-shell_basics/5-listfilesdigitonly
-	*	1669825954	0
-	"	2	5
-	^	2	6
-	.	2	5
-	+	2	5
+> ~/alx-low_level_programming/0x08-recursion/1-print_rev_recursion.c
+	*	1672870272	0
+	"	11	14
+	^	11	15
+	.	11	14
+	+	16	0
+	+	11	14
 
-> ~/alx-system_engineering-devops/0x00-shell_basics/4-listmorefiles
-	*	1669825638	0
-	"	2	7
-	^	2	8
-	.	2	7
-	+	2	7
+> ~/alx-low_level_programming/0x08-recursion/6-is_prime_number.c
+	*	1672869788	0
+	"	22	12
+	^	22	13
+	.	22	13
+	+	3	614
+	+	3	5
+	+	4	0
+	+	3	3
+	+	35	0
+	+	22	13
 
-> ~/alx-system_engineering-devops/0x00-shell_basics/3-listfiles
-	*	1669825446	0
-	"	2	4
-	^	2	5
-	.	2	4
-	+	2	4
+> ~/alx-low_level_programming/0x08-recursion/main.h
+	*	1672868682	0
+	"	15	5
+	^	15	6
+	.	15	5
+	+	15	5
 
-> ~/alx-system_engineering-devops/0x00-shell_basics/2-bring_me_home
-	*	1669825162	0
-	"	2	7
-	^	2	8
-	.	3	0
-	+	3	0
+> ~/alx-low_level_programming/0x08-recursion/101-wildcmp.c
+	*	1672868472	0
+	"	10	29
+	^	10	30
+	.	10	29
+	+	10	32
+	+	10	30
+	+	31	0
+	+	6	5
+	+	10	29
 
-> ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
-	*	1669824853	0
-	"	2	1
-	^	2	2
-	.	2	1
-	+	2	1
+> ~/alx-low_level_programming/0x08-recursion/100-is_palindrome.c
+	*	1672864920	0
+	"	39	13
+	^	39	14
+	.	39	13
+	+	42	0
+	+	41	34
+	+	39	13
 
-> ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-	*	1669824291	0
-	"	2	2
-	^	2	3
-	.	2	2
-	+	2	2
+> ~/alx-low_level_programming/0x08-recursion/5-sqrt_recursion.c
+	*	1672862971	0
+	"	35	0
+	^	35	1
+	.	35	0
+	+	35	0
 
-> ~/alx-pre_course/.git/MERGE_MSG
-	*	1669166911	0
-	"	1	14
+> ~/alx-low_level_programming/0x08-recursion/4-pow_recursion.c
+	*	1672862291	0
+	"	18	0
+	^	18	1
+	.	18	0
+	+	18	0
 
-> ~/alx-pre_course/01-git/bash/software
-	*	1668893551	0
-	"	2	30
-	^	2	31
-	.	2	30
+> ~/alx-low_level_programming/0x08-recursion/3-factorial.c
+	*	1672862015	0
+	"	18	0
+	^	18	1
+	.	18	0
+	+	18	0
+
+> ~/alx-low_level_programming/0x08-recursion/2-strlen_recursion.c
+	*	1672861766	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	15	0
+	+	1	1359
+	+	1	1307
 	+	1	0
-	+	2	30
+
+> ~/alx-low_level_programming/_putchar
+	*	1672858380	0
+	"	12	0
+	^	12	1
+	.	12	0
+	+	3	2
+	+	3	3
+	+	12	0
+
+> ~/alx-low_level_programming/0x07-pointers_arrays_strings/8-print_diagsums.c
+	*	1672701769	0
+	"	21	24
+	^	21	25
+	.	21	24
+	+	11	38
+	+	5	63
+	+	2	0
+	+	1	1
+	+	11	150
+	+	11	98
+	+	53	0
+	+	18	4
+	+	15	13
+	+	16	0
+	+	21	19
+	+	25	0
+	+	21	24
+
+> ~/alx-low_level_programming/0x07-pointers_arrays_strings/101-crackme_password
+	*	1672697755	0
+	"	1	0
+	^	1	0
+	.	1	6
+	+	1	6
+
+> ~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h
+	*	1672697613	0
+	"	13	22
+	^	13	23
+	.	13	22
+	+	6	6
+	+	5	12
+	+	15	5
+	+	14	0
+	+	13	22
+
+> ~/alx-low_level_programming/0x07-pointers_arrays_strings/100-set_string.c
+	*	1672697545	0
+	"	12	0
+	^	12	1
+	.	12	0
+	+	12	0
+
+> ~/alx-low_level_programming/0x07-pointers_arrays_strings/7-print_chessboard.c
+	*	1672694134	0
+	"	15	0
+	^	15	0
+	.	14	0
+	+	28	0
+	+	27	0
+	+	14	0
+
+> ~/alx-low_level_programming/0x07-pointers_arrays_strings/5-strstr.c
+	*	1672693296	0
+	"	6	11
+	^	6	12
+	.	6	11
+	+	8	13
+	+	6	24
+	+	44	0
+	+	43	2
+	+	18	21
+	+	6	11
+	+	11	27
+	+	6	11
