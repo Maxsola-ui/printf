@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1674183373,,"wq"
+|2,0,1674782876,,"wq"
 :q!
 |2,0,1672859582,,"q!"
 :set noeol
@@ -64,230 +64,402 @@
 |3,1,36,0,1,0,1672970344,"h"
 
 # File marks:
-'0  46  43  ~/alx-low_level_programming/0x10-variadic_functions/README.md
-|4,48,46,43,1674183373,"~/alx-low_level_programming/0x10-variadic_functions/README.md"
-'1  8  0  ~/alx-low_level_programming/0x10-variadic_functions/3-print_all.c
-|4,49,8,0,1674183089,"~/alx-low_level_programming/0x10-variadic_functions/3-print_all.c"
-'2  9  0  ~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c
-|4,50,9,0,1674182991,"~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c"
-'3  9  0  ~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c
-|4,51,9,0,1674182919,"~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c"
-'4  26  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,52,26,0,1674182858,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
-'5  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,53,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
-'6  1  17  ~/alx-low_level_programming/0x01-variadic_functions/README.md
-|4,54,1,17,1674182678,"~/alx-low_level_programming/0x01-variadic_functions/README.md"
-'7  13  93  ~/alx-low_level_programming/0x0D-preprocessor/README.md
-|4,55,13,93,1674090445,"~/alx-low_level_programming/0x0D-preprocessor/README.md"
-'8  31  34  ~/alx-low_level_programming/0x0E-structures_typedef/README.md
-|4,56,31,34,1674090130,"~/alx-low_level_programming/0x0E-structures_typedef/README.md"
-'9  96  192  ~/alx-low_level_programming/0x0F-function_pointers/README.md
-|4,57,96,192,1674089503,"~/alx-low_level_programming/0x0F-function_pointers/README.md"
+'0  3  0  ~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c
+|4,48,3,0,1674782876,"~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c"
+'1  1  216  ~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c
+|4,49,1,216,1674769767,"~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c"
+'2  10  37  ~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c
+|4,50,10,37,1674769767,"~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c"
+'3  1  126  ~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c
+|4,51,1,126,1674769626,"~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c"
+'4  1  126  ~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c
+|4,52,1,126,1674769626,"~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c"
+'5  6  2  ~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c
+|4,53,6,2,1674769626,"~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c"
+'6  6  2  ~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c
+|4,54,6,2,1674769626,"~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c"
+'7  1  29  ~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c
+|4,55,1,29,1674769494,"~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c"
+'8  1  29  ~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c
+|4,56,1,29,1674769494,"~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c"
+'9  1  29  ~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c
+|4,57,1,29,1674769494,"~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c"
 
 # Jumplist (newest first):
--'  46  43  ~/alx-low_level_programming/0x10-variadic_functions/README.md
-|4,39,46,43,1674183373,"~/alx-low_level_programming/0x10-variadic_functions/README.md"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/README.md
-|4,39,1,0,1674183105,"~/alx-low_level_programming/0x10-variadic_functions/README.md"
--'  8  0  ~/alx-low_level_programming/0x10-variadic_functions/3-print_all.c
-|4,39,8,0,1674183089,"~/alx-low_level_programming/0x10-variadic_functions/3-print_all.c"
--'  8  0  ~/alx-low_level_programming/0x10-variadic_functions/3-print_all.c
-|4,39,8,0,1674183089,"~/alx-low_level_programming/0x10-variadic_functions/3-print_all.c"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/3-print_all.c
-|4,39,1,0,1674183071,"~/alx-low_level_programming/0x10-variadic_functions/3-print_all.c"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/3-print_all.c
-|4,39,1,0,1674183071,"~/alx-low_level_programming/0x10-variadic_functions/3-print_all.c"
--'  9  0  ~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c
-|4,39,9,0,1674182991,"~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c"
--'  9  0  ~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c
-|4,39,9,0,1674182991,"~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c"
--'  9  0  ~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c
-|4,39,9,0,1674182991,"~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c"
--'  9  0  ~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c
-|4,39,9,0,1674182991,"~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c
-|4,39,1,0,1674182972,"~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c
-|4,39,1,0,1674182972,"~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c
-|4,39,1,0,1674182972,"~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c
-|4,39,1,0,1674182972,"~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c"
--'  9  0  ~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c
-|4,39,9,0,1674182919,"~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c"
--'  9  0  ~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c
-|4,39,9,0,1674182919,"~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c"
--'  9  0  ~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c
-|4,39,9,0,1674182919,"~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c"
--'  9  0  ~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c
-|4,39,9,0,1674182919,"~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c"
--'  9  0  ~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c
-|4,39,9,0,1674182919,"~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c"
--'  9  0  ~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c
-|4,39,9,0,1674182919,"~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c"
--'  9  0  ~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c
-|4,39,9,0,1674182919,"~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c"
--'  9  0  ~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c
-|4,39,9,0,1674182919,"~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c
-|4,39,1,0,1674182901,"~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c
-|4,39,1,0,1674182901,"~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c
-|4,39,1,0,1674182901,"~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c
-|4,39,1,0,1674182901,"~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c
-|4,39,1,0,1674182901,"~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c
-|4,39,1,0,1674182901,"~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c
-|4,39,1,0,1674182901,"~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c
-|4,39,1,0,1674182901,"~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c"
--'  26  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,26,0,1674182858,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  26  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,26,0,1674182858,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  26  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,26,0,1674182858,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  26  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,26,0,1674182858,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  26  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,26,0,1674182858,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  26  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,26,0,1674182858,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  26  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,26,0,1674182858,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  26  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,26,0,1674182858,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  26  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,26,0,1674182858,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  26  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,26,0,1674182858,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  26  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,26,0,1674182858,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  26  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,26,0,1674182858,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  26  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,26,0,1674182858,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  26  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,26,0,1674182858,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  26  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,26,0,1674182858,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  26  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,26,0,1674182858,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,1,0,1674182844,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,1,0,1674182844,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,1,0,1674182844,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,1,0,1674182844,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,1,0,1674182844,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,1,0,1674182844,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,1,0,1674182844,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,1,0,1674182844,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,1,0,1674182844,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,1,0,1674182844,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,1,0,1674182844,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,1,0,1674182844,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,1,0,1674182844,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,1,0,1674182844,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,1,0,1674182844,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-|4,39,1,0,1674182844,"~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  12  5  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,12,5,1674182808,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,1,0,1674182795,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,1,0,1674182795,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,1,0,1674182795,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,1,0,1674182795,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,1,0,1674182795,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
--'  1  0  ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-|4,39,1,0,1674182795,"~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h"
+-'  3  0  ~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c
+|4,39,3,0,1674782876,"~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c"
+-'  1  216  ~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c
+|4,39,1,216,1674782776,"~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c"
+-'  10  37  ~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c
+|4,39,10,37,1674769767,"~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c"
+-'  6  2  ~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c
+|4,39,6,2,1674769649,"~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c"
+-'  6  2  ~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c
+|4,39,6,2,1674769626,"~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c"
+-'  3  6  ~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c
+|4,39,3,6,1674769527,"~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c"
+-'  3  6  ~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c
+|4,39,3,6,1674769527,"~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c"
+-'  3  6  ~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c
+|4,39,3,6,1674769494,"~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c"
+-'  14  17  ~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c
+|4,39,14,17,1674769416,"~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c"
+-'  15  17  ~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c
+|4,39,15,17,1674769416,"~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c"
+-'  15  17  ~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c
+|4,39,15,17,1674769416,"~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c"
+-'  15  17  ~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c
+|4,39,15,17,1674769363,"~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c"
+-'  1  284  ~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c
+|4,39,1,284,1674768898,"~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c"
+-'  1  284  ~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c
+|4,39,1,284,1674768898,"~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c"
+-'  1  284  ~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c
+|4,39,1,284,1674768898,"~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c"
+-'  1  284  ~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c
+|4,39,1,284,1674768898,"~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c"
+-'  23  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1674767264,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1674767264,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1674767264,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1674767264,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1674767264,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1674767264,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1674767264,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1674767264,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1674767264,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1674767264,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1674767264,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1674767264,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1674767264,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1674767264,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1674767264,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1674767264,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1674767264,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1674767264,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1674767264,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1674767264,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1674767264,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1674767264,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1674767264,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1674767264,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1674767264,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1674767264,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1674767264,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1674767264,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1674767264,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1674767264,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1674767264,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1674767264,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1674767233,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1674767233,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1674767233,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1674767233,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1674767233,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1674767233,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1674767233,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1674767233,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1674767233,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1674767233,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1674767233,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1674767233,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1674767233,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1674767233,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1674767233,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1674767233,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1674767233,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1674767233,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1674767233,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1674767233,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1674767233,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1674767233,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1674767233,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1674767233,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1674767233,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1674767233,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1674767233,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1674767233,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1674767233,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1674767233,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1674767233,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1674767233,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  20  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
+|4,39,20,0,1674767179,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
+-'  20  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
+|4,39,20,0,1674767179,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
+-'  20  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
+|4,39,20,0,1674767179,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
+-'  20  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
+|4,39,20,0,1674767179,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
+-'  20  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
+|4,39,20,0,1674767179,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
+-'  20  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
+|4,39,20,0,1674767179,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
+-'  20  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
+|4,39,20,0,1674767179,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
+-'  20  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
+|4,39,20,0,1674767179,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
+-'  20  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
+|4,39,20,0,1674767179,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
+-'  20  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
+|4,39,20,0,1674767179,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
+-'  20  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
+|4,39,20,0,1674767179,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
+-'  20  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
+|4,39,20,0,1674767179,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
+-'  20  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
+|4,39,20,0,1674767179,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
+-'  20  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
+|4,39,20,0,1674767179,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
+-'  20  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
+|4,39,20,0,1674767179,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
+-'  20  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
+|4,39,20,0,1674767179,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
+-'  20  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
+|4,39,20,0,1674767179,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
+-'  20  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
+|4,39,20,0,1674767179,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
+-'  20  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
+|4,39,20,0,1674767179,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
+-'  20  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
+|4,39,20,0,1674767179,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
 
 # History of marks within files (newest to oldest):
+
+> ~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c
+	*	1674782873	0
+	"	3	0
+	^	3	0
+	.	2	0
+	+	1	113
+	+	1	87
+	+	1	284
+	+	1	285
+	+	1	320
+	+	1	302
+	+	1	270
+	+	1	247
+	+	1	255
+	+	1	161
+	+	1	160
+	+	1	161
+	+	1	179
+	+	1	218
+	+	1	220
+	+	1	250
+	+	1	247
+	+	1	19
+	+	1	287
+	+	1	127
+	+	1	102
+	+	1	60
+	+	1	26
+	+	1	23
+	+	1	19
+	+	1	56
+	+	1	99
+	+	1	124
+	+	1	129
+	+	1	179
+	+	1	178
+	+	1	217
+	+	19	0
+	+	8	0
+	+	2	0
+
+> ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+	*	1674767262	0
+	"	23	0
+	^	23	1
+	.	24	0
+	+	24	0
+
+> ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
+	*	1674767177	0
+	"	20	0
+	^	20	1
+	.	20	0
+	+	20	0
+
+> ~/alx-low_level_programming/0x12-singly_linked_lists/100-first.c
+	*	1674767120	0
+	"	12	0
+	^	12	1
+	.	13	0
+	+	13	0
+
+> ~/alx-low_level_programming/0x12-singly_linked_lists/101-hello_holberton.asm
+	*	1674767053	0
+	"	15	3
+	^	15	4
+	.	15	3
+	+	15	3
+
+> ~/alx-low_level_programming/0x12-singly_linked_lists/2-add_node.c
+	*	1674766987	0
+	"	33	0
+	^	33	1
+	.	34	0
+	+	34	0
+
+> ~/alx-low_level_programming/0x12-singly_linked_lists/3-add_node_end.c
+	*	1674766901	0
+	"	41	0
+	^	41	1
+	.	42	0
+	+	42	0
+
+> ~/alx-low_level_programming/0x12-singly_linked_lists/lists.h
+	*	1674766557	0
+	"	26	0
+	^	26	1
+	.	26	0
+	+	31	0
+	+	28	0
+	+	27	0
+	+	26	0
+
+> ~/alx-low_level_programming/0x12-singly_linked_lists/README.md
+	*	1674766121	0
+	"	1	29
+	^	1	30
+	.	1	29
+	+	1	29
+
+> ~/printf/README.md
+	*	1674594852	0
+	"	88	12
+	^	88	13
+	.	88	12
+	+	87	15
+	+	64	0
+	+	67	0
+	+	69	0
+	+	71	0
+	+	73	0
+	+	75	0
+	+	77	0
+	+	79	0
+	+	81	0
+	+	83	0
+	+	85	0
+	+	62	0
+	+	38	0
+	+	35	0
+	+	2	0
+	+	88	12
+
+> ~/printf/get_width.c
+	*	1674592645	0
+	"	36	0
+	^	36	1
+	.	36	0
+	+	36	0
+
+> ~/printf/get_size.c
+	*	1674592614	0
+	"	26	0
+	^	26	1
+	.	26	0
+	+	26	0
+
+> ~/printf/get_precision.c
+	*	1674592571	0
+	"	41	0
+	^	41	1
+	.	41	0
+	+	41	0
+
+> ~/printf/get_flag.c
+	*	1674592495	0
+	"	34	0
+	^	34	1
+	.	34	0
+	+	34	0
+
+> ~/printf/functions_b.c
+	*	1674592452	0
+	"	188	0
+	^	188	1
+	.	188	0
+	+	188	0
+
+> ~/printf/functions.c
+	*	1674592401	0
+	"	188	0
+	^	188	1
+	.	188	0
+	+	188	0
+
+> ~/printf/functions_a.c
+	*	1674592360	0
+	"	161	0
+	^	161	1
+	.	161	0
+	+	161	0
 
 > ~/alx-low_level_programming/0x10-variadic_functions/README.md
 	*	1674183370	0
@@ -969,171 +1141,3 @@
 	^	3	18
 	.	3	17
 	+	3	17
-
-> ~/alx-low_level_programming/0x08-recursion/0-puts_recursion.c
-	*	1672870801	0
-	"	17	16
-	^	17	17
-	.	17	16
-	+	12	39
-	+	12	12
-	+	18	0
-	+	14	21
-	+	13	0
-	+	14	1
-	+	11	8
-	+	17	16
-
-> ~/alx-low_level_programming/0x08-recursion/1-print_rev_recursion.c
-	*	1672870272	0
-	"	11	14
-	^	11	15
-	.	11	14
-	+	16	0
-	+	11	14
-
-> ~/alx-low_level_programming/0x08-recursion/6-is_prime_number.c
-	*	1672869788	0
-	"	22	12
-	^	22	13
-	.	22	13
-	+	3	614
-	+	3	5
-	+	4	0
-	+	3	3
-	+	35	0
-	+	22	13
-
-> ~/alx-low_level_programming/0x08-recursion/main.h
-	*	1672868682	0
-	"	15	5
-	^	15	6
-	.	15	5
-	+	15	5
-
-> ~/alx-low_level_programming/0x08-recursion/101-wildcmp.c
-	*	1672868472	0
-	"	10	29
-	^	10	30
-	.	10	29
-	+	10	32
-	+	10	30
-	+	31	0
-	+	6	5
-	+	10	29
-
-> ~/alx-low_level_programming/0x08-recursion/100-is_palindrome.c
-	*	1672864920	0
-	"	39	13
-	^	39	14
-	.	39	13
-	+	42	0
-	+	41	34
-	+	39	13
-
-> ~/alx-low_level_programming/0x08-recursion/5-sqrt_recursion.c
-	*	1672862971	0
-	"	35	0
-	^	35	1
-	.	35	0
-	+	35	0
-
-> ~/alx-low_level_programming/0x08-recursion/4-pow_recursion.c
-	*	1672862291	0
-	"	18	0
-	^	18	1
-	.	18	0
-	+	18	0
-
-> ~/alx-low_level_programming/0x08-recursion/3-factorial.c
-	*	1672862015	0
-	"	18	0
-	^	18	1
-	.	18	0
-	+	18	0
-
-> ~/alx-low_level_programming/0x08-recursion/2-strlen_recursion.c
-	*	1672861766	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	15	0
-	+	1	1359
-	+	1	1307
-	+	1	0
-
-> ~/alx-low_level_programming/_putchar
-	*	1672858380	0
-	"	12	0
-	^	12	1
-	.	12	0
-	+	3	2
-	+	3	3
-	+	12	0
-
-> ~/alx-low_level_programming/0x07-pointers_arrays_strings/8-print_diagsums.c
-	*	1672701769	0
-	"	21	24
-	^	21	25
-	.	21	24
-	+	11	38
-	+	5	63
-	+	2	0
-	+	1	1
-	+	11	150
-	+	11	98
-	+	53	0
-	+	18	4
-	+	15	13
-	+	16	0
-	+	21	19
-	+	25	0
-	+	21	24
-
-> ~/alx-low_level_programming/0x07-pointers_arrays_strings/101-crackme_password
-	*	1672697755	0
-	"	1	0
-	^	1	0
-	.	1	6
-	+	1	6
-
-> ~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h
-	*	1672697613	0
-	"	13	22
-	^	13	23
-	.	13	22
-	+	6	6
-	+	5	12
-	+	15	5
-	+	14	0
-	+	13	22
-
-> ~/alx-low_level_programming/0x07-pointers_arrays_strings/100-set_string.c
-	*	1672697545	0
-	"	12	0
-	^	12	1
-	.	12	0
-	+	12	0
-
-> ~/alx-low_level_programming/0x07-pointers_arrays_strings/7-print_chessboard.c
-	*	1672694134	0
-	"	15	0
-	^	15	0
-	.	14	0
-	+	28	0
-	+	27	0
-	+	14	0
-
-> ~/alx-low_level_programming/0x07-pointers_arrays_strings/5-strstr.c
-	*	1672693296	0
-	"	6	11
-	^	6	12
-	.	6	11
-	+	8	13
-	+	6	24
-	+	44	0
-	+	43	2
-	+	18	21
-	+	6	11
-	+	11	27
-	+	6	11

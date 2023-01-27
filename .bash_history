@@ -505,3 +505,79 @@ git all -A
 git add -A
 git commit -m 'Variadic functions task'
 git push
+clear
+pwd
+cd root
+ls
+git remote add origin https://github.com/Maxsola-ui/printf.git
+git branch -M main
+git push -u origin main
+ls
+git status
+git push -u origin main
+ls
+cd */printf
+clear
+git add -A
+git status
+git commit -m 'Unpushed files'
+git push
+git clone https://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@github.com/username/printf.git
+git clone https://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@github.com/username/printf.git
+git clone https://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@github.com/Maxsola-ui/printf.git
+ls
+clear
+cd printf
+git config --global user.name "Maxsola-ui"
+git config --global user.email "fakinbule@gmail.com"
+vi README.md
+ls
+git add .
+git commit -m 'README.md'
+git push
+clear
+cd root
+cd printf
+vi README.md
+git add README.md
+git commit -m 'README'
+git push
+clear
+ls
+pwd
+cd root
+ls
+alx-low_level_programming
+cd alx-low_level_programming
+ls
+mkdir 0x12-singly_linked_lists
+cd 0x12-singly_linked_lists
+ls
+vi README.md
+clear
+vi lists.h
+betty lists.h
+vi 4-free_list.c
+betty 4-free_list.c
+vi 3-add_node_end.c
+betty 3-add_node_end.c
+vi 2-add_node.c
+vi 101-hello_holberton.asm
+vi 100-first.c
+vi  1-list_len.c
+vi 0-print_list.c
+git add -A
+git commit -m '0x12-Singly lineked lists'
+git push
+cd root
+cd alx-low_level_programming
+cd 0x12-singly_linked_lists
+ls
+vi 4-free_list.c
+betty 4-free_list.c
+vi 4-free_list.c
+betty 4-free_list.c
+vi 4-free_list.c
+betty 4-free_list.c
+vi 4-free_list.c
+betty 4-free_list.c
